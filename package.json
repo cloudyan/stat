@@ -1,0 +1,22 @@
+{
+  "name": "@deepjs/stat",
+  "version": "0.0.1",
+  "description": "前端慢点, 数据统计上报方案",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepjs-net/stat.git"
+  },
+  "keywords": [
+    "stat"
+  ],
+  "author": "cloudyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepjs-net/stat/issues"
+  },
+  "homepage": "https://github.com/deepjs-net/stat#readme"
+}
